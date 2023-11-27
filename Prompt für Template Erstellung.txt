@@ -1,0 +1,23 @@
+Erstelle mir ein template von diesem Abschnitt so das ich dieses auch für andere themen anwenden kann.
+Gib keine vorgefertigten Texte mit es soll nur der Inhalt und Formatierung klar sein.
+Es muss klar sein wann Fließtext gefordert ist und wann aufzählung. Bedenke das es auch gemischt Inhalte gibt.
+Auch muss die Textlkänge klar definiert sein mit anzahl der Sätze.
+Das Template sollte auch nicht zu Allgemein sein es sollte schon klar sein was man schreiben soll. Schlecht wäre z.b. als Überschrift im Template "Thema 2", es muss schon eine Info darin stehen wie Z.B. "Vor und Nachteile des [Hauptthema]". Aber auch zu viele Informationen sind schlecht, bedenke das es auch für ein anderes Thema passen muss.
+Verwende pro abschnitt / zeilenumbruch eine aufzählung (-).
+
+Ein Template könnte z.B. so aussehen:
+----
+1. Einleitung
+- Fließtext, 4 Sätze, Kurze Einführung in das Thema, umreißt den Hintergrund und die Relevanz des Themas.
+
+2. Was ist [Hauptthema]
+- Fließtext, 5 Sätze, Grundlegende Beschreibung des Hauptthemas, inklusive seiner Hauptfunktion oder seines Hauptnutzens.
+
+3. [Hauptthema]: Sinnvoll oder nicht?
+- Fließtext, 4 Sätze, einleitender text für die vorteile
+- Aufzählung, 3 Sätze, erklärung des vorteils 1.
+- Aufzählung, 3 Sätze, erklärung des vorteils 2.
+- Aufzählung, 3 Sätze, erklärung des vorteils 3.
+
+----
+Erstelle ein Template für das Dokument im Anhang.

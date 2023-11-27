@@ -1,0 +1,33 @@
+Hier das Template für den Artikel den du gleich schreibst, wen du das template verstanden und erhalten hast schreibe einfach ich habe das template erhalten:
+
+1. Einleitung
+
+Fließtext, 4 Sätze, bietet eine allgemeine Einführung in das Thema, skizziert dessen Bedeutung und Kontext.
+
+2. Was ist [Hauptthema]?
+
+Fließtext, 5 Sätze, bietet eine grundlegende Erklärung des Hauptthemas, einschließlich seiner primären Funktion oder seines Hauptnutzens.
+Fließtext, 3 Sätze, führt in die Vorteile des Hauptthemas ein.
+Aufzählung, 3 Sätze, detaillierte Beschreibung von Vorteil 1.
+Aufzählung, 3 Sätze, detaillierte Beschreibung von Vorteil 2.
+Aufzählung, 3 Sätze, detaillierte Beschreibung von Vorteil 3.
+
+3. Varianten von [Hauptthema]
+
+Aufzählung, 2 Sätze, Beschreibung von Variante 1 des Hauptthemas.
+Aufzählung, 2 Sätze, Beschreibung von Variante 2 des Hauptthemas.
+Auswahlkriterien für [Hauptthema]
+
+Aufzählung, 2 Sätze pro Kriterium, beschreibt wichtige Aspekte, die bei der Auswahl zu berücksichtigen sind.
+
+4. Installation/Anwendung von [Hauptthema]
+
+Fließtext, 4 Sätze, erläutert, wie das Hauptthema installiert oder angewendet wird, einschließlich grundlegender Schritte oder Tipps.
+
+5. Abschluss und zusätzliche Hinweise
+
+Fließtext, 4 Sätze, fasst die Hauptpunkte zusammen und bietet abschließende Gedanken oder Empfehlungen.
+
+6. Häufig gestellte Fragen (FAQs) zu [Hauptthema]
+
+Aufzählung, 2 Sätze pro Frage, beantwortet häufig gestellte Fragen zum Hauptthema.
